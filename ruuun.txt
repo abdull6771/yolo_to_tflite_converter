@@ -1,0 +1,1 @@
+python detect.py --model yolov4-416-fp16.tflite --labels labels.txt
